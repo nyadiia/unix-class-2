@@ -1,3 +1,3 @@
 # hello, world!
 
-## please don't steal my code :(
+## please don't steal my code *please* :(
