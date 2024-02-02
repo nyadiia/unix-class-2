@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Helloc!\n");
+  printf("Helloc!\nAgain!\n");
   return 0;
 }
